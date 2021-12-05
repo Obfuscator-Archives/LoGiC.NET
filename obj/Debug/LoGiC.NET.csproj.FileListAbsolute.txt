@@ -1,0 +1,10 @@
+C:\Users\Admin\Downloads\LoGiC.NET (Source Code)\bin\Debug\LoGiC.NET.exe.config
+C:\Users\Admin\Downloads\LoGiC.NET (Source Code)\bin\Debug\LoGiC.NET.exe
+C:\Users\Admin\Downloads\LoGiC.NET (Source Code)\bin\Debug\LoGiC.NET.pdb
+C:\Users\Admin\Downloads\LoGiC.NET (Source Code)\bin\Debug\dnlib.dll
+C:\Users\Admin\Downloads\LoGiC.NET (Source Code)\bin\Debug\SharpConfigParser.dll
+C:\Users\Admin\Downloads\LoGiC.NET (Source Code)\bin\Debug\dnlib.xml
+C:\Users\Admin\Downloads\LoGiC.NET (Source Code)\obj\Debug\LoGiC.NET.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\LoGiC.NET (Source Code)\obj\Debug\LoGiC.NET.csproj.CopyComplete
+C:\Users\Admin\Downloads\LoGiC.NET (Source Code)\obj\Debug\LoGiC.NET.exe
+C:\Users\Admin\Downloads\LoGiC.NET (Source Code)\obj\Debug\LoGiC.NET.pdb
